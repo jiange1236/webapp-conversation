@@ -2,8 +2,13 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## 修改说明
-1. 替换默认LOGO ~public\Logo.png~
+1. 替换默认LOGO `public\Logo.png`
 2. 取消原欢迎页面，直接进入对话页面
+
+## Changelog
+
+1. Update default logo (public/Logo.png).
+2. Skip welcome screen, go directly to chat view.
 
 ## Config App
 Create a file named `.env.local` in the current directory and copy the contents from `.env.example`. Setting the following content:
